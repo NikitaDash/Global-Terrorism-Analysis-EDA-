@@ -1,6 +1,6 @@
 # Global-Terrorism-Analysis-EDA-
 # Project Name - Global Terrorism Database Analysis
-#Problem Statement:
+# Problem Statement:
 
 Understanding Terrorism through Exploratory Data Analysis (EDA)
 
