@@ -4,7 +4,7 @@
 
 Understanding Terrorism through Exploratory Data Analysis (EDA)
 
-## Definition of Terrorism:
+### Definition of Terrorism:
 
 Terrorism is characterized by:
 
@@ -47,26 +47,26 @@ The primary business objective is to conduct an extensive Exploratory Data Analy
 ### 1. Terror Trend Analysis:
 Identify the top 30 countries with the highest number of terror attacks. Analyze the success rates of these attacks to understand the effectiveness of terrorist activities in different regions.
 
-## 2. Casualty Analysis:
+### 2. Casualty Analysis:
 Conduct a demographic analysis of casualties with a geographical perspective. Examine casualties caused by different terrorist groups to gain insights into their impact.
 
-## 3. Mode of Attacks:
+### 3. Mode of Attacks:
 Perform a comprehensive analysis of the various attack types employed by terrorists. Compare different attack types used and assess their prevalence among different nationalities.
 
-## 4. Target Analysis:
+### 4. Target Analysis:
 Thoroughly analyze the various types of targets chosen by terrorists. Investigate how these target choices vary by region.
 
-## 5. Weaponry Analysis:
+### 5. Weaponry Analysis:
 Conduct an in-depth analysis of the different types of weaponry used by terrorists, providing insights into the means and tools employed in these acts.
 
-## 6. Terrorism Worldwide:
+### 6. Terrorism Worldwide:
 Analyze and understand the global landscape of terror attacks over the 1970-2017 period, examining geographical distribution and trends.
 
-## 7. Terrorism at Home Analysis:
+### 7. Terrorism at Home Analysis:
 Analyze terror attacks in India, including a state-wise and city-wise breakdown. Identify the most active terrorist groups within India and analyze any significant factors contributing to these incidents.
 
-## 8. Geo-Scatter Analysis:
+### 8. Geo-Scatter Analysis:
 Study the distribution of terrorism across the globe, focusing on the latitude and longitude of the locations of terror attacks in India.
 
-## 9. Co-Relation Analysis:
+### 9. Co-Relation Analysis:
 Conduct an analysis of the top 40 worst terror attacks that occurred between 1978 and 2017. Visualize this analysis using a heatmap to identify any significant correlations or patterns among these attacks. The ultimate goal of this EDA is to provide a comprehensive and structured understanding of global terrorism trends, thereby assisting in informed decision-making, policy formulation, and academic research. By exploring and analyzing the Global Terrorism Dataset, this analysis aims to contribute to counter-terrorism efforts, enhance our knowledge of global terrorism, and promote a safer and more secure world.
